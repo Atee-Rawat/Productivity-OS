@@ -22,7 +22,7 @@
 - 🌐 **RESTful API** with Express.js
 - 🎨 **Modern UI** using React + Tailwind
 - 📈 **Data Visualization** for analytics
-- 🛡️ **Security**: Helmet, Rate Limiting, CORS
+- 🛡️ **Security**: Helmet, Rate Limiting and CORS
 
 ---
 
